@@ -24,7 +24,7 @@ each operation must be printed as output.
 
 ---
 
-## 🚀 usage
+## usage
 
 ```bash
 make
@@ -43,7 +43,7 @@ create a simple messaging system using UNIX signals.
 
 ---
 
-## 💡 concept
+## 🧠 concept
 
 send strings from a client to a server using only:
 
@@ -53,7 +53,7 @@ send strings from a client to a server using only:
 
 ---
 
-## 🖧 how it works
+## how it works
 
 - each bit of a character is sent as a signal from client to server
 - the server rebuilds characters one bit at a time
@@ -61,7 +61,7 @@ send strings from a client to a server using only:
 
 ---
 
-## 🛠 compile
+## compile
 
 ```
 make
@@ -73,4 +73,4 @@ make
 ```
 ./client <server_pid> "Hey there."
 ```
-
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
